@@ -10,7 +10,7 @@ The datasets are available from [here](http://goo.gl/JyCnZq) and are from the pa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ywatanabe1989/ecog_stent_sheep_visual.git
+   git clone https://github.com/stellaho/low_resource_continual_learning.git
 
 2. Create a virtual environment:
    ```bash
