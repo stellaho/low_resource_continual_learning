@@ -1,6 +1,6 @@
 # Continual Learning for Low-Resource Natural Language Processing
 
-This repository contains the code for the study on continual learning for low-resource NLP. (work in progress, and will release the code)
+This repository contains the code for the study on continual learning for low-resource NLP. (work in progress, and will release the code soon)
 
 ## Dataset
 
